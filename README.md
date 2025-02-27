@@ -1,7 +1,7 @@
 ## Hi i'm aclgh! 👋
 #### Platform & Tools
 <a href="https://count.getloli.com/"><img src="https://moecounter.dreamerhe.cn/aclgh?theme=asoul" height="100" align="right"></a>
-[![](https://img.shields.io/badge/OS-Ubautu-77216F?style=for-the-badge&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/OS-Ubuntu-77216F?style=for-the-badge&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/macOS-Sequoia-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)   
 [![](https://img.shields.io/badge/Redmi-k70pro-FF7E00?style=for-the-badge&logo=xiaomi&logoColor=ffffff)](https://www.samsung.com/us/app/mobile/galaxy-s20-5g/)
